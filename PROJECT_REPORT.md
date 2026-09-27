@@ -1,4 +1,4 @@
-# Project Report — Student Performance Analyzer
+# Project Report — STUDENT PERFORMANCE ANALYZER
 
 ## 1. Introduction
 
